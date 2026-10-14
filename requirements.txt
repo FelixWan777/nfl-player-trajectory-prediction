@@ -1,0 +1,9 @@
+# Dependency names only; exact versions must match the original Kaggle environment.
+# kaggle_evaluation is supplied by the competition, not by this pip file.
+numpy
+pandas
+polars
+pyarrow
+torch
+scikit-learn
+tqdm
